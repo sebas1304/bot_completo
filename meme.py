@@ -80,4 +80,4 @@ async def articulos(ctx):
     sitio_web_aleatorio = random.choice(sitios_web)
     await ctx.send(sitio_web_aleatorio)
 
-bot.run("MTEwMTIwNjA4NTA0MzQ5OTE1MQ.Gm-Zq4.fALV90kfa0lyP0dCrL6eLOkphk9UdQcArCUC2Q")
+bot.run("tu token :)")
